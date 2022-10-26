@@ -5,7 +5,8 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const subjects = require('./subject.json')
+const subjects = require('./subject.json');
+const blogItems = require('./blog.json');
 
 app.get('/', (req, res) =>{
     res.send("API Running")
@@ -16,4 +17,8 @@ app.listen(port, () => {
 });
 app.get('/subjects',  (req, res) => {
     res.send(subjects)
+});
+
+app.get('/blog', (req, res) => {
+    res.send(blogItems)
 })

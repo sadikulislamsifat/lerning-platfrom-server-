@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "imageURL": "https://web-dev.imgix.net/image/AeNB0cHNDkYPUYzDuv8gInYA9rY2/DBUXaF63Cw1X5wMlI7Jh.jpg?auto=format&w=571",
+        "title": "CSS Animated Grid Layouts",
+        "description": "In CSS Grid, the grid-template-columns and grid-template-rows properties allow you to define line names and track sizing of grid columns and rows, respectively. Supporting interpolation for these properties allows grid layouts to smoothly transition between states, instead of snapping at the halfway point of an animation or transition.",
+        "author": "Bramus",
+        "authorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRRlN2La_MZTHxZSW64VNvWW-4ftEbR_tF3w&usqp=CAU",
+        "date": "Oct 25, 2022"
+    },
+    {
+        "id": "02",
+        "imageURL": "https://web-dev.imgix.net/image/vS06HQ1YTsbMKSFTIPl2iogUQP73/Mx5dDmELgbJottijzfwF.png?auto=format&w=571",
+        "title": "Building a tooltip component",
+        "description": "A foundational overview of how to build a color-adaptive and accessible tooltip custom element.",
+        "author": "Adam Argle",
+        "authorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9Ly0NnTg--JQy4CSMOS3JfoLEnTsVpFzx47VGIQ-Nw-qt5qNdqh8eiGYXa_Bj23iQ4I&usqp=CAU",
+        "date": "Aug 18, 2022"
+    },
+    {
+        "id": "03",
+        "imageURL": "https://web-dev.imgix.net/image/8WbTDNrhLsU0El80frMBGE4eMCD3/QdKJmzxJE8e63gdXWzeo.jpg?auto=format&w=571",
+        "title": "New patterns for amazing apps",
+        "description": "Dive into a fantastic collection of new patterns for amazing apps, including clipboard patterns, file patterns, and advanced app patterns.",
+        "author": "Thomas Steiner",
+        "authorPhoto": "https://s7280.pcdn.co/wp-content/uploads/2018/10/application-developer.jpg.optimal.jpg",
+        "date": "Oct 11, 2022"
+    },
+    {
+        "id": "04",
+        "imageURL": "https://web-dev.imgix.net/image/kheDArv5csY6rvQUJDbWRscckLr1/CEhqfqUeK6vcU2YpPcqK.jpg?auto=format&w=571",
+        "title": "New to the web platform in September",
+        "description": "Discover some of the interesting features that landed in stable and beta web browsers during September 2022.",
+        "author": "Jeremay Wagner",
+        "authorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1dK0EAMVn3xKVmc9n8A5NU0MB3vCsur0Li7TD5gmXJLXswFFD8PyPVQTRPMU8mJkzzc&usqp=CAU",
+        "date": "Sep 29, 2022"
+    },
+    {
+        "id": "05",
+        "imageURL": "https://web-dev.imgix.net/image/Dyx9FwYgMyNqy1kMGx8Orz6q0qC3/vzvc5Ep1blYUQMYYnAKT.jpg?auto=format&w=571",
+        "title": "Speedy CSS Tip! Animated Loader",
+        "description": "Let's make an animated CSS loader with scoped custom properties and animation-timing-function",
+        "author": "Jhey Tompkins",
+        "authorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_F2KCZliiwKA1s66NJR1T9-hCysxGL_DMDsKLs19uzObF6Zh48adkzSCGftQFUB55ls&usqp=CAU",
+        "date": "Sep 22, 2022"
+    },
+    {
+        "id": "06",
+        "imageURL": "https://web-dev.imgix.net/image/kheDArv5csY6rvQUJDbWRscckLr1/tRG45IUUaywMyn4CtTR2.jpg?auto=format&w=571",
+        "title": "Building the main navigation for a website",
+        "description": "This tutorial describes how to build an accessible main navigation of a website. You learn about semantic HTML, accessibility, and how using ARIA attributes can sometimes do more harm than good.",
+        "author": "Manuel Matuzović",
+        "authorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuK3EdElbT-E590tc29Vn-MDSeb1drhyJ7zY1o8DoTZMKdun3SeU__3ZsS2iiOZt-Bdh4&usqp=CAU",
+        "date": "Sep 7, 2022"
+    }
+]

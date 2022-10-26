@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "01",
+        "subject_name": "LearnHTML",
+        "banner": "https://web.dev/images/courses/html/card.svg",
+        "description": "Wellcome to HTML! HyperText Markup Language, or HTML is the backbone of the web, providing the content, as well as the structure of that content, thet you see displayed in your browser. Unless you're reading a PDF or a printed version of this page, this content is made up of various HTML elements and text. HTML is the content layer of the web. HTML elements are the nodes that make up the Document Object Model. Cascading Style Sheets provide the look and feel, or presentation layer of the page. JavaScript is the behavior layer, often used to manipulate the objects within a document. Sites that are built with JavaScript frameworks are really just manipulating HTML. In turn, it's important to mark up your HTML in a way that scripts can easily parse and that assistive technologies can easily understand. This means writing HTML code with modern standards.",
+        "achivment": "35"
+
+    },
+    {
+        "id" : "02",
+        "subject_name": "Learn css",
+        "banner": "https://web.dev/images/courses/css/card.svg",
+        "description": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface. Each module is full of interactive demos and self-assessments for you to test your knowledge. <br/> In addition to learning through reading and demos, there is an accompanying podcast episode for each topic as another way to learn and continue expanding your knowledge. <br/> This course is created for beginner and advanced CSS developers alike. You can go through the series from start to finish to get a general understanding of CSS from top to bottom, or you can use it as a reference for specific styling subjects. For those new to web development overall, check out the intro to HTML course from MDN to learn all about how to write markup and link your stylesheets.",
+        "achivment": "29"
+
+    },
+    {
+        "id" : "03",
+        "subject_name": "Learn Responsive Design",
+        "banner": "https://web.dev/images/courses/design/card.svg",
+        "description": "This course takes you on a journey through the many facets of modern responsive web design. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more. <br/> Along the way you’ll find out how to make websites responsive to user preferences and device capabilities. By the end, you’ll also have an understanding of what the future might hold for responsive design. <br/> Each module has demos and self-assessments for you to test your knowledge. <br/> This course is created for beginner and intermediate designers and developers. A basic understanding of HTML and CSS should be enough. You don’t need to know any JavaScript. If you’re completely new to making websites, there's an introduction to HTML and another course to help you learn CSS.",
+        "achivment": "27"
+
+    },
+    {
+        "id" : "04",
+        "subject_name": "Learn Forms",
+        "banner": "https://web.dev/images/courses/forms/card.svg",
+        "description": "This course breaks down HTML forms into easy to understand pieces. Over the next few modules, you'll learn how an HTML form works and how to use them effectively in your projects. Use the menu pane by the Learn Forms logo to navigate the modules. <br/> You'll learn how to build a basic HTML form, about HTML form elements, styling forms, help users re-entering data, ensuring the form is accessible, and secure, how to test your forms, and about specific form types. <br/> Each module is full of interactive demos and self-assessments for you to test your knowledge. <br/> This course is suitable for beginners and advanced HTML developers. The first few modules help you get started with building HTML forms, the other modules give more detail. You can go through the series from start to finish to get a general understanding of HTML forms, or pick a specific module you want to learn more about.",
+        "achivment": "38"
+
+    },
+    {
+        "id" : "05",
+        "subject_name": "Learn Accessibility",
+        "banner": "https://web.dev/images/courses/accessibility/card.svg",
+        "description": "Digital accessibility, commonly abbreviated a11y, is about designing and building websites and web apps that disabled people can interact with in a meaningful and equivalent way. <br/> This course is created for beginner and advanced web developers. You can go through the series from start to finish to get a general understanding of accessibility practices and testing, or you can use it as a reference for specific subjects. If you read an unfamiliar term, refer to our glossary. For those new to web development overall, check out the Learn HTML courses for fundamentals with markup and Learn CSS courses for styling fundamentals. <br/> This is not a complete reference. Each section introduces the section topic, provides context and examples. There will be links to topic references, such as MDN and WCAG specifications, and other web.dev articles. Each section will have a short assessment to help people confirm their understanding. <br/> Some accessibility best practices differ, based on the disability you're addressing. It's important to understand your users and to listen to people with disabilities when they tell you what they need. <br/> We are open to your feedback! Open a GitHub issue and give as much information as you can so we can address it. <br/>",
+        "achivment": "21"
+
+    },
+    {
+        "id" : "06",
+        "subject_name": "Learn PWA",
+        "banner": "https://web.dev/images/courses/pwa/card.svg",
+        "description": "This course covers the fundamentals of Progressive Web App development into easy-to-understand pieces. Over the following modules, you'll learn what a Progressive Web App is, how to create one or upgrade your existing web content, and how to add all the pieces for an offline, installable app. Use the menu pane by the Learn PWA logo to navigate the modules. <br/> You'll learn PWA fundamentals like the Web App Manifest, service workers, how to design with an app in mind, what's different from a classic web app, how to use other tools to test and debug your PWA. After these fundamentals, you'll learn about integration with the platform and operating system, how to enhance your PWA's installation and usage experience, and how to offer an offline experience. <br/> Each module includes interactive demos and self-assessments for you to test your knowledge. You will be able to test and try demos on your mobile phone, tablet, or laptop while playing with code to understand the fundamentals of what makes a Progressive Web App. <br/> This course is created for a beginner and advanced web developers alike. You can go through the series from start to finish to get a general understanding of PWA from top to bottom, or you can use it as a reference for specific subjects. For those new to web development you will need a grounding in HTML, CSS, and JavaScript to follow along. Check out Learn CSS, and the HTML and JavaScript courses on MDN.",
+        "achivment": "19"
+
+    }
+]

@@ -21,4 +21,10 @@ app.get('/subjects',  (req, res) => {
 
 app.get('/blog', (req, res) => {
     res.send(blogItems)
+});
+
+app.get('/subjects/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedSubject = subjects.find(n => n.id === id)
+    res.send(selectedSubject)
 })
